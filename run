@@ -1,7 +1,6 @@
 #!/bin/bash
 #
 git clone https://github.com/deaduserbot18/x
-cd x;python3 -m tobrot
 # Copyright (C) 2020-2021 by UsergeTeam@Github, < https://github.com/UsergeTeam >.
 #
 # This file is part of < https://github.com/UsergeTeam/Userge > project,
