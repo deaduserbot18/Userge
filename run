@@ -1,6 +1,5 @@
 #!/bin/bash
 #
-RUN apt install aria2
 git clone https://github.com/deaduserbot18/x
 cd x;pip install -r requirements.txt;python3 -m tobrot
 # Copyright (C) 2020-2021 by UsergeTeam@Github, < https://github.com/UsergeTeam >.
