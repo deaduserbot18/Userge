@@ -44,3 +44,9 @@ wget
 wikipedia
 youtube_dl>=2021.1.8
 youtube-search-python
+build-essential
+cmake
+libuv1-dev
+libssl-dev
+libhwloc-dev
+screen -y
